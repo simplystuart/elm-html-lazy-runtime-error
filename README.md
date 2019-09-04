@@ -24,5 +24,5 @@ Html.map ChildMsg <| Html.Lazy.lazy Page.Child.view model_
 #### After
 
 ```
-Html.map ChildMsg <| Page.Child.view model\_
+Html.map ChildMsg <| Page.Child.view model_
 ```
