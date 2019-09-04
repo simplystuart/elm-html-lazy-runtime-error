@@ -1,0 +1,12 @@
+{
+  "name": "elm-html-lazy-runtime-error",
+  "version": "1.0.0",
+  "main": "elm.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx elm reactor"
+  },
+  "devDependencies": {
+    "elm": "^0.19.0-no-deps"
+  }
+}
